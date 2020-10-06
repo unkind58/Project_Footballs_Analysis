@@ -1,0 +1,124 @@
+﻿name,color,id,price_2020_10_05,weight,package,brand,size_1,size_2,size_3,size_4,size_5,natural_grass,artifical_grass,futsal,major_material,comments
+Puma Play,orange,31961037,11.95,0.4,0.19x0.19x0.04,Puma,0,0,1,1,1,1,0,0,EVA,0
+Puma Spin,orange,31961052,14.95,0.42,0.2x0.2x0.04,Puma,0,0,1,1,1,1,1,1,TPU,0
+Puma Spin,black,31961072,12.99,0.4,0.2x0.2x0.04,Puma,0,0,0,1,1,1,1,1,TPU,0
+Adidas Team J350,mix,28649595,27.95,0.1,0.1x0.1x0.1,Adidas,0,0,0,1,0,1,0,0,TPU,0
+Puma Future Flash Ball,mix,28439980,20.95,0.1,0.1x0.1x0.1,Puma,0,0,0,1,1,1,0,0,TPU,0
+Avento 16XF,orange,13555170,7.95,1,0.35x0.35x0.05,Avento,0,1,0,0,0,0,0,1,PVC,1
+Adidas Epp II,mix,28376800,17.95,0.1,0.1x0.1x0.1,Adidas,0,0,0,1,1,1,0,0,TPU,0
+Get and Go 16XD,white,12821200,5.95,0.31,0.185x0.155x0.13,Get & Go,0,0,0,0,1,1,1,1,PVC,1
+Atom Sports,mix,27606102,6.99,0.33,0.2x0.2x0.11,Atom,0,0,0,1,1,1,0,0,PVC,1
+Molten PF-540,mix,4822819,10.99,0.4,0.19x0.2x0.095,Molten,0,0,0,0,1,1,1,0,PU,8
+Atom Sports,mix,27606087,5.99,0.3,0.21x0.21x0.11,Atom,0,0,0,1,0,1,0,0,PVC,1
+Atom Sports,mix,27606087,5.99,0.3,0.21x0.21x0.11,Atom,0,0,0,1,0,1,0,0,PVC,1
+Puma Big Cat,mix,28705520,12.95,0.4,0.22x0.22x0.04,Puma,0,0,1,1,1,1,0,0,TPU,0
+ADIDAS EURO2020 UNIFORIA MINI,mix,28347819,16.95,0.4,0.2x0.15x0.1,Adidas,1,0,0,0,0,1,0,0,TPU,0
+Spokey Ambit,black,27229715,8.49,0.44,0.21x0.21x0.13,Spokey,0,0,0,0,1,1,0,0,TPU,0
+Spokey Coomb,white,24633020,21.99,0.45,0.2x0.2x0.1,Spokey,0,0,0,1,0,0,0,1,PVC,0
+Puma Final 4 Club,mix,24022800,21.99,0.3,0.3x0.3x0.3,Puma,0,0,0,0,1,1,1,0,PU,1
+Umbro Neo Team Trainer,mix,26983155,16.95,0.379,0.2x0.05x0.1,Umbro,0,0,1,1,1,1,0,0,PU,0
+Umbro Veloce Supporter,mix,26983145,12.95,0.33,0.21x0.21x0.04,Umbro,0,0,0,1,1,1,0,0,PVC,0
+Spokey Haste Pro,mix,30928091,9.45,0.5,0.21x0.21x0.21,Spokey,0,0,0,0,1,1,0,0,PVC,0
+Umbro Veloce Supporter,mix,26983140,12.95,0.379,0.21x0.21x0.04,Umbro,0,0,0,0,1,1,0,0,PVC,0
+Spokey Mercury,mix,27229750,7.49,0.4,0.2x0.2x0.13,Spokey,0,0,0,0,1,1,0,0,PVC,0
+Spokey Mercury,mix,27229745,7.49,0.4,0.2x0.1x0.2,Spokey,0,0,0,0,1,1,0,0,PVC,0
+Spokey Mercury,mix,27229740,7.49,0.4,0.2x0.1x0.2,Spokey,0,0,0,0,1,1,0,0,PVC,0
+Adidas Telstar,mix,20709650,17.99,0.435,0.2x0.2x0.03,Adidas,0,0,0,0,1,1,0,0,TPU,0
+ADIDAS EURO2020 UNIFORIA CLUB FR8067,mix,28347794,16.99,0.43,0.2x0.2x0.03,Adidas,0,0,0,0,1,1,0,0,TPU,0
+Molten F5V1700-R,mix,5687067,13.49,0.1,0.3x0.3x0.3,Molten,0,0,0,0,1,1,0,0,PVC,0
+Spokey Ambit,white,27229705,8.49,0.43,0.21x0.21x0.13,Spokey,0,0,0,0,1,1,0,0,TPU,0
+SELECT FUTSAL ACADEMY SPECIAL,mix,28036907,24.99,0.45,0.4x0.4x0.4,Select,0,0,0,1,0,0,0,1,PU,0
+Spokey Polska 2020,mix,30928101,8.99,0.42,0.22x0.19x0.11,Spokey,0,0,0,0,1,1,0,0,TPU,0
+Spokey Agilit,mix,30928096,8.99,0.5,0.22x0.19x0.11,Spokey,0,0,0,0,1,1,0,0,PVC,0
+PUMA FINAL 6 MS TRAINER,mix,28036932,16.49,0.5,0.45x0.45x0.45,Puma,0,0,0,0,1,1,0,0,PU,0
+PUMA ONE LASER,mix,28036942,16.49,0.5,0.45x0.45x0.45,Puma,0,0,0,0,1,1,0,0,PU,0
+SELECT MIMAS IMS 2018,mix,28036917,29.49,0.45,0.4x0.4x0.4,Select,0,0,0,1,0,0,1,1,PU,0
+SELECT MIMAS IMS 2018,mix,28037427,29.49,0.45,0.4x0.4x0.4,Select,0,0,0,1,0,0,0,1,PU,0
+Get&Go,mix,24476795,6.49,1,0.3x0.3x0.3,Get & Go,0,0,0,0,1,1,1,1,PVC,0
+Real Madrid Kick Off Games,white,29308750,22.99,0.43,0.2x0.2x0.03,Real Madrid,0,0,0,0,1,1,0,0,PVC,0
+ADIDAS EPP II FL7024,mix,28347854,13.49,0.45,0.25x0.2x0.15,Adidas,0,0,0,0,1,1,0,0,TPU,0
+Real Madrid Kick Off Games,mix,29287150,25.99,0.43,0.2x0.2x0.03,Real Madrid,0,0,0,0,1,1,0,0,PET,0
+Futsal Super,mix,6665246,88.49,0.2,0.3x0.3x0.3,Select,0,0,0,1,0,0,0,1,PU,0
+Select Futsal Academy Special,mix,31658422,24.99,0.6,0.21x0.21x0.11,Select,0,0,0,1,0,0,1,1,PU,0
+Spokey E2016 Polska VIP,mix,11286790,21.49,0.5,0.5x0.4x0.3,Spokey,0,0,0,0,1,1,1,1,PVC,0
+Meteor Shiny MS,mix,31657087,14.49,0.6,0.21x0.21x0.11,Meteor,0,0,0,0,1,1,0,0,PU,0
+Adidas P5686,mix,26172870,24.49,0.29,0.2x0.2x0.03,Adidas,0,0,0,1,0,0,0,1,TPU,0
+Meteor 360 Grain TB,mix,24134280,28.99,0.45,0.2x0.3x0.2,Meteor,0,0,0,0,1,1,0,0,PU,0
+Meteor 360 Grain HS,mix,24131070,19.49,0.4,0.26x0.17x0.13,Meteor,0,0,0,0,1,1,0,0,PU,0
+Meteor 360 Mat HS,mix,24135370,19.49,0.45,0.2x0.2x0.04,Meteor,0,0,0,0,1,1,0,0,PVC,0
+Adidas Finale 19 Capitano Real Madrid DY2541,mix,31660367,21.49,0.6,0.21x0.21x0.11,Adidas,0,0,0,0,1,1,0,0,TPU,0
+Meteor Furry,mix,24133890,19.99,0.5,0.2x0.2x0.08,Meteor,0,0,0,1,1,0,0,1,Filcas,0
+ADIDAS EURO2020 UNIFORIA CLUB FH7354,mix,28347789,18.99,0.45,0.25x0.2x0.15,Adidas,0,0,0,0,1,1,0,0,TPU,0
+ADIDAS EURO2020 UNIFORIA LEAGUE J350,mix,28347804,19.99,0.45,0.25x0.2x0.15,Adidas,0,0,0,0,1,1,0,0,TPU,1
+NIKE PITCH EVENT PACK S,neon,28062282,20.99,0.5,0.45x0.45x0.45,Nike,0,0,0,0,1,1,0,0,TPU,0
+Adidas Context 19,mix,26749585,18.49,0.43,0.2x0.2x0.03,Adidas,0,0,0,0,1,1,0,0,TPU,0
+Spokey Haste,mix,23225360,7.99,0.43,0.21x0.21x0.21,Spokey,0,0,0,0,1,1,0,0,PVC,0
+FC Barcelona Kick Off Games,mix,30351571,21.99,0.43,0.2x0.2x0.03,FC Barcelona,0,0,0,0,1,1,0,0,PVC,0
+Spokey Prodigy,white,26932020,9.49,0.42,0.5x0.4x0.3,Spokey,0,0,0,0,1,1,0,1,TPU,0
+ADIDAS EURO2020 UNIFORIA LEAGUE BOX,mix,28347774,28.49,0.45,0.25x0.2x0.15,Adidas,0,0,0,0,1,1,0,0,TPU,1
+PUMA TRAINER MS FUTSAL,mix,28036937,20.49,0.5,0.45x0.45x0.45,Puma,0,0,0,0,1,1,0,0,TPU,0
+Hudora,mix,26796750,42.49,0.43,0.22x0.22x0.22,Hudora,0,0,0,0,1,1,0,0,PVC,0
+ADIDAS TANGO PASADENA FIFA,mix,5734709,34.99,0.5,0.3x0.3x0.3,Adidas,0,0,0,0,1,1,0,0,PU,0
+Spokey Ambit Mini,white,27229810,5.99,0.4,0.14x0.14x0.08,Spokey,0,1,0,0,0,1,0,0,TPU,0
+ADIDAS EURO2020 UNIFORIA CLUB FP9705,mix,28347824,16.99,0.45,0.25x0.2x0.15,Adidas,0,0,0,0,1,1,0,0,TPU,0
+ADIDAS EURO2020 UNIFORIA CLUB FP9706,mix,28347779,16.99,0.45,0.25x0.2x0.15,Adidas,0,0,0,0,1,1,0,0,TPU,0
+ADIDAS EURO2020 UNIFORIA CLUB FH7355,mix,28347784,16.99,0.45,0.25x0.2x0.15,Adidas,0,0,0,0,1,1,0,0,TPU,0
+ADIDAS FINALE 18 CAPITANO KIEV,mix,28036642,23.49,0.43,0.2x0.2x0.03,Adidas,0,0,0,0,1,1,0,0,TPU,0
+Adidas Finale18 Cap,mix,28376810,22.95,0.1,0.1x0.1x0.1,Adidas,0,0,0,1,0,1,0,0,TPU,0
+Adidas F50 X-ITE,mix,28377785,19.95,0.1,0.1x0.1x0.1,Adidas,0,0,0,0,1,1,0,0,Rubber,0
+Adidas EURO16OLP GER C,mix,28377800,19.95,0.1,0.1x0.1x0.1,Adidas,0,0,0,0,1,1,0,0,Rubber,0
+Adidas EURO16OLP ITA C,mix,28377805,19.95,0.1,0.1x0.1x0.1,Adidas,0,0,0,0,1,1,0,0,Rubber,0
+Adidas SUMMER LOGO,mix,28377840,24.95,0.1,0.1x0.1x0.1,Adidas,0,0,0,0,1,1,0,0,PVC,0
+Adidas EURO16 GLIDER,mix,28377850,19.95,0.1,0.1x0.1x0.1,Adidas,0,0,0,0,1,1,0,0,PVC,0
+Adidas FINMILANO CAP,mix,28377875,19.95,0.1,0.1x0.1x0.1,Adidas,0,0,0,0,1,1,0,0,Rubber,0
+Adidas World Cup Glide Blue,blue,28378295,18.95,0.1,0.1x0.1x0.1,Adidas,0,0,0,1,0,1,0,0,TPU,0
+Puma Pro Training 2 MS Ball White,white,28378405,17.95,0.1,0.1x0.1x0.1,Puma,0,0,0,1,0,1,0,0,TPU,0
+Puma Future Flare Ball,mix,28439875,20.95,0.1,0.1x0.1x0.1,Puma,0,0,0,1,1,1,0,0,TPU,0
+Adidas Fcb Cpt,mix,28440000,22.95,0.1,0.1x0.1x0.1,Adidas,0,0,0,1,1,1,0,0,TPU,0
+Puma One Strap Ball,mix,28440215,20.95,0.1,0.1x0.1x0.1,Puma,0,0,0,1,1,1,0,0,TPU,0
+Puma One Star Ball White,white,28443460,19.95,0.1,0.1x0.1x0.1,Puma,0,0,0,1,0,1,0,0,TPU,0
+Adidas Team Replique,mix,28651900,29.99,0.1,0.1x0.1x0.1,Adidas,0,0,0,1,0,1,0,0,TPU,0
+Adidas EUROPEANQGLI,mix,28377745,23.95,0.1,0.1x0.1x0.1,Adidas,0,0,0,0,1,1,0,0,Rubber,0
+Adidas ACN GLIDER,mix,28377765,19.95,0.1,0.1x0.1x0.1,Adidas,0,0,0,0,1,1,0,0,Rubber,0
+Adidas CONEXT15GLIDER,mix,28377770,19.95,0.1,0.1x0.1x0.1,Adidas,0,0,0,0,1,1,0,0,TPU,0
+Adidas EURO16OLP ITA C,mix,28377810,19.95,0.1,0.1x0.1x0.1,Adidas,0,0,0,0,1,1,0,0,Rubber,0
+Adidas EURO16 CAP DFB,mix,28377815,23.95,0.1,0.1x0.1x0.1,Adidas,0,0,0,0,1,1,0,0,PVC,0
+Adidas EURO16 REPLIQUE,mix,28377865,28.99,0.1,0.1x0.1x0.1,Adidas,0,0,0,0,1,1,0,0,PVC,0
+Adidas FINALE15CFC CAP,mix,28440490,19.95,0.1,0.1x0.1x0.1,Adidas,0,0,0,0,1,1,0,0,TPU,0
+Get & Go 16SY,mix,13554815,5.49,0.3,0.21x0.21x0.1,Get & Go,0,0,0,0,1,1,0,0,PVC,0
+MOLTEN FUTSAL F9V1900,mix,14341515,29.9,0.47,0.3x0.3x0.3,Molten,0,0,0,1,0,0,0,1,Artifical leather,0
+Adidas World Cup Glide,mix,28377370,18.95,0.1,0.1x0.1x0.1,Adidas,0,0,0,1,0,1,0,0,TPU,0
+Puma ,mix,28377730,15.95,0.1,0.1x0.1x0.1,Puma,0,0,0,0,1,1,0,0,Rubber,0
+Adidas FINALE15ACM CAP,mix,28377790,19.95,0.1,0.1x0.1x0.1,Adidas,0,0,0,0,1,1,0,0,Rubber,0
+Adidas EURO16 GLIDER,mix,28377845,19.95,0.1,0.1x0.1x0.1,Adidas,0,0,0,0,1,1,0,0,PVC,0
+Adidas EURO16 GLIDER,mix,28377860,19.95,0.1,0.1x0.1x0.1,Adidas,0,0,0,0,1,1,0,0,PVC,0
+Adidas Finale Mufc Cpt,mix,28440180,27.95,0.1,0.1x0.1x0.1,Adidas,0,0,0,1,1,1,0,0,TPU,0
+Puma One Triangle Ball,mix,28440245,20.95,0.1,0.1x0.1x0.1,Puma,0,0,0,1,1,1,0,0,TPU,0
+Adidas EURO16OLP ESP C,mix,28440495,19.95,0.1,0.1x0.1x0.1,Adidas,0,0,0,0,1,1,0,0,TPU,0
+Adidas EURO16TRAINPRO,mix,28440500,28.99,0.1,0.1x0.1x0.1,Adidas,0,0,0,0,1,1,0,0,TPU,0
+Puma Pro Training 2 MS Ball White,white,28443440,17.95,0.1,0.1x0.1x0.1,Puma,0,0,0,1,0,1,0,0,TPU,0
+Puma Future Flash Ball,mix,28652085,18.95,0.1,0.1x0.1x0.1,Puma,0,0,0,0,1,1,0,0,TPU,0
+Fair S2,mix,31389701,28.86,1,0.2x0.2x0.2,Messi,0,0,0,0,1,1,0,0,TPU,0
+Puma One Strap Nrgy,mix,27205165,20.95,0.33,0.2x0.2x0.03,Puma,0,0,0,0,1,1,1,1,PU,1
+Nike Football NK Merc Fade,mix,28376745,22.95,0.1,0.1x0.1x0.1,Nike,0,0,0,0,1,1,0,0,Rubber,0
+Adidas Finale18CB Cpt,mix,28377490,22.95,0.1,0.1x0.1x0.1,Adidas,0,0,0,1,1,1,0,0,TPU,0
+Adidas UEL CAPITANO,mix,28377740,20.95,0.1,0.1x0.1x0.1,Adidas,0,0,0,0,1,1,0,0,TPU,0
+Adidas PREDATOR CLIDER,mix,28377755,18.95,0.1,0.1x0.1x0.1,Adidas,0,0,0,0,1,1,0,0,Rubber,0
+Puma Future Flare Ball,mix,28439915,20.95,0.1,0.1x0.1x0.1,Puma,0,0,0,1,1,1,0,0,TPU,0
+Adidas Rm Cpt Away,mix,28440095,22.95,0.1,0.1x0.1x0.1,Adidas,0,0,0,1,1,1,0,0,TPU,0
+Nike NK Street Akka White Black Red,mix,28443655,30.99,0.1,0.1x0.1x0.1,Nike,0,0,0,0,1,0,0,1,Rubber,0
+Get & Go 16SY,mix,28469530,5.49,0.3,0.21x0.21x0.1,Get & Go,0,0,0,0,1,1,0,0,PVC,0
+Adidas Finale Juve Mini,blue,31482542,15.95,0.1,0.1x0.1x0.1,Adidas,1,0,0,0,0,1,0,0,TPU,0
+Puma Icon Miniball Yellow,yellow,31531417,15.95,0.1,0.1x0.1x0.1,Puma,0,0,0,0,1,1,0,0,TPU,0
+MOLTEN F4G3350,mix,14341535,36.99,0.5,0.5x0.4x0.3,Molten,0,0,0,1,0,0,0,1,Filcas,0
+Adidas CONEXT15GLIDER,mix,28377775,17.95,0.1,0.1x0.1x0.1,Adidas,0,0,0,0,1,1,0,0,TPU,0
+Adidas EURO16 GLIDER,mix,28377820,19.95,0.1,0.1x0.1x0.1,Adidas,0,0,0,0,1,1,0,0,PVC,0
+Adidas EURO16PRAIA X,mix,28377855,19.95,0.1,0.1x0.1x0.1,Adidas,0,0,0,0,1,1,0,0,Rubber,0
+Adidas FINMILANO CAP,mix,28377880,19.95,0.1,0.1x0.1x0.1,Adidas,0,0,0,0,1,1,0,0,Rubber,0
+Adidas Afc Cpt Home,mix,28440165,22.95,0.1,0.1x0.1x0.1,Adidas,0,0,0,1,1,1,0,0,TPU,0
+Adidas Finale Fcb Cpt,mix,28440225,22.95,0.1,0.1x0.1x0.1,Adidas,0,0,0,1,1,1,0,0,TPU,0
+Puma One Strap Ball,mix,28440235,20.95,0.1,0.1x0.1x0.1,Puma,0,0,0,1,1,1,0,0,TPU,0
+Adidas Uefa Mini,mix,28440345,15.95,0.1,0.1x0.1x0.1,Adidas,1,0,0,0,0,1,0,0,TPU,0
+Puma Final 6 MS Trainer White Yellow,yellow,28443445,19.95,0.1,0.1x0.1x0.1,Puma,0,0,0,1,0,1,0,0,TPU,0
+Get & Go 16SY,mix,28469525,5.49,0.3,0.21x0.21x0.1,Get & Go,0,0,0,0,1,1,0,0,PVC,0
+Get & Go 16SY,mix,28469535,5.49,0.3,0.21x0.21x0.1,Get & Go,0,0,0,0,1,1,0,0,PVC,0
