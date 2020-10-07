@@ -1,7 +1,14 @@
+# STILL TO GO !
+
 # Project_Footballs_Analysis
 Analysis of available footballs from online shop 
 
-# STILL TO GO !
+## Metrics for comparison
+* Average football price by brand;
+* Old models percentage in overall football proposal;
+* Futsal footballs percentage in overall football proposal;
+* Footballs for artificial grass percentage in overall football proposal;
+* Overall features correlation matrix.
 
 ## How to run ?
 `app.ipynb`
