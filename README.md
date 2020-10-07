@@ -5,9 +5,9 @@ Analysis of available footballs from online shop
 
 ## Metrics for comparison
 * Average football price by brand;
-* Old models percentage in overall football proposal;
-* Futsal footballs percentage in overall football proposal;
-* Footballs for artificial grass percentage in overall football proposal;
+* Old models percentage in overall footballs proposal;
+* Futsal footballs percentage in overall footballs proposal;
+* Footballs for artificial grass percentage in overall footballs proposal;
 * Overall features correlation matrix.
 
 ## How to run ?
