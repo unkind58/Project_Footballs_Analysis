@@ -1,7 +1,5 @@
-# STILL TO GO !
-
 # Project_Footballs_Analysis
-Analysis of available footballs from online shop 
+Analysis of available footballs from online shop <u>pigu.lt</u>.
 
 ## Metrics for comparison
 * Average football price by brand;
