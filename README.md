@@ -16,3 +16,6 @@ Analysis of available footballs from online shop <u>pigu.lt</u>.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Render `app.ipynb` via nbviewer 
+[app.ipynb](https://nbviewer.jupyter.org/github/unkind58/Project_Footballs_Analysis/blob/main/app.ipynb)
